@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  Padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #181818;
+}
+
+.App {
+  text-align: center;
+}

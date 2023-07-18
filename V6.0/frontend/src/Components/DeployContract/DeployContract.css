@@ -1,0 +1,72 @@
+.deploy-contract{
+    height: 800px;
+    margin: 30px 50px;
+    padding: 20px;
+
+    color: whitesmoke;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.deployedAt{
+    height: 50px;
+    color: #EE811A;
+}
+
+.params{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.how-it-works {
+    padding: 15px;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+
+label,input{
+    padding: 10px;
+    margin: 10px;
+}
+
+.how-it-works h3 {
+    font-size: 25px;
+    margin: 20px;
+    color: #EE811A;
+}
+
+.how-it-works ol {
+    list-style: decimal;
+    margin-left: 40px;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.how-it-works ul {
+    list-style: disc;
+    margin-left: 40px;
+}
+
+.how-it-works li {
+    margin-bottom: 10px;
+}
+
+button{
+    border: 2px solid #EE811A;
+    background: #EE811A;
+    padding: 6px 10px;
+}
+
+.deploy-params {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+

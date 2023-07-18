@@ -1,0 +1,38 @@
+.Home{
+    display: flex;
+    height: 500px;
+    margin: 0px 50px;
+    padding: 50px;
+    justify-content: space-between;
+    color: whitesmoke;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.description div{
+    margin: 10px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    margin: 20px;
+}
+
+h1{
+
+    font-size: 70px;
+}
+
+p{
+    font-size: 25px;
+    justify-content: center;
+    justify-self: center;
+}
